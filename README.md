@@ -14,3 +14,5 @@ It takes advantages of word and sentence embedding techniques ranging from TFIDF
 
 Note: The models are subject to biases and may not be 100% accurate. Please consider this as a tool to help with graing and not a replacement to actual grading.
 
+## Demo
+The demo input for this project can be found under <a src="https://github.com/Akshays-4/Auto_Corrector/tree/main/Flask/Flask_Upload/static">Sample Input</a>
